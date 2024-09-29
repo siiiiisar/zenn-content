@@ -3,7 +3,7 @@ title: "SvelteKitとmicroCMSで自作ブログを作ってVercelで公開して�
 emoji: "🚀"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Svelte", "SvelteKit", "microCMS", "Vercel"]
-published: false
+published: true
 ---
 ## はじめに
 
